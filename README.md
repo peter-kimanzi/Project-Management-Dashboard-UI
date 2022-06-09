@@ -7,3 +7,5 @@ Project Management Dashboard UI
 * HTML
 * CSS
 * JavaScript
+
+## View live site
