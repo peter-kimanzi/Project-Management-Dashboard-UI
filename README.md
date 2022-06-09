@@ -5,3 +5,4 @@ Project Management Dashboard UI
 ## Technologies used
 
 * HTML
+* CSS
