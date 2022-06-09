@@ -9,3 +9,5 @@ Project Management Dashboard UI
 * JavaScript
 
 ## View live site
+
+https://peter-kimanzi.github.io/Project-Management-Dashboard-UI/
